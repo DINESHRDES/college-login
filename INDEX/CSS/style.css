@@ -1,0 +1,172 @@
+
+body
+{
+    font-size: medium;
+    float: left;
+    min-width: 900px;
+    max-width: 1200px;
+ background-image: url("../صورة_مدن_عالمية.jpg");
+   background-size: 1350px;
+   color: yellow;
+}
+h2
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+#nothing 
+{
+    font-size: larger;
+    text-decoration: dotted;
+    border: 2px solid;
+    background-color: black ;
+    border-radius: 10px;
+    
+}
+#homer
+{
+    
+    float: left;
+    height: 70px;
+    width: 900px;
+    
+
+   
+}
+ul{
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: auto;
+    padding-right: 25px;
+    border: 6px solid;
+    background-color:brown;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:20px;
+
+}
+a:hover
+{
+    color: rgb(51, 21, 223);
+    transition: .6s;
+    
+}
+
+.h4
+{
+    padding: 75px;
+    margin-top: 25px;
+    color:yellow;
+    text-decoration: none;
+    text-shadow: 1px 0 0 yellow;
+}
+
+
+#pratice
+{
+    border: 10px  solid;
+    border-left-width: 25%;
+    font-style: normal;
+    text-align: center;
+    margin-top: 55px;
+}
+
+#pratice {
+
+
+    border-left-width: 25%;
+    width : 19%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 890px;
+    background-color: rgb(71, 57, 49);
+}
+.icon{
+    width: 1200px;
+    float: right;
+    height: 70px;
+    margin: 10px;
+    padding-top: 1px;
+    
+}
+#matrix
+{
+    
+    margin-bottom: auto;
+    background-color: rgb(12, 236, 86);
+
+}
+
+.list
+{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+#name
+{
+
+    text-align: left;
+    text-transform: uppercase;
+    text-justify: auto;
+}
+.a
+{
+
+    background-color:aqua;
+    text-decoration: none;
+    color: black;
+
+}
+ol a{
+    list-style-type: none;
+
+}
+ol a:hover{
+    border: 1px solid yellow;
+    background-color: rgb(18, 237, 69);
+}
+
+#mat
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-display:block;
+}
+#max
+{
+    text-align: left;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.design
+{
+    font-size: 22px;
+    padding: 1.5px;
+    text-transform: uppercase;
+    list-style-type: none;
+    width: 680px;
+    background-color: black;
+    border: 5px solid yellow;
+    border-radius: 4px;
+
+}
